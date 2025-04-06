@@ -4,10 +4,10 @@ title: Athena Jekyll Theme
 description: A simple and elegant theme for Jekyll and GitHub Pages.
 
 # social
-social_link: twitter
-social_username: broccolini
-github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
+social_link: x
+social_username: drcklinn
+github_repo: pages # the GitHub repo name for your project
+github_username: drcklinn
 theme_color: light
 
 # Theme
