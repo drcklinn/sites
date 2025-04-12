@@ -1,4 +1,13 @@
 - title: About
   url: /about
-- title: Writing
-  url: /writing
+- title: Pages
+  url: /pages/
+- title: Blogs
+  url: /blogs/
+- title: Contents
+  url: /contents/
+  url: /contents/contact
+  url: /contents/terms
+  url: /contents/privacy
+  url: /contents/disclaimer
+  url: /contents/copyright
